@@ -1,0 +1,17 @@
+{
+  "name": "biodata",
+  "version": "1.0.0",
+  "description": "Responsive Biodata Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Mukhamad Ilyas Syafi'i",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2"
+  }
+}
