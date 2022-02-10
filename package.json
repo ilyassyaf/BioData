@@ -9,7 +9,7 @@
   "author": "Mukhamad Ilyas Syafi'i",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2"
